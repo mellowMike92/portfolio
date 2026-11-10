@@ -22,3 +22,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# project planning docs (kept local)
+create-project-*.md
+create-website.md
